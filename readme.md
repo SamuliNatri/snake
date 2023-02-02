@@ -1,1 +1,1 @@
-[![name](flappy-small.png)](https://youtu.be/_tm1-YH0ICA)
+[![name](snake-small.png)](https://youtu.be/_tm1-YH0ICA)
